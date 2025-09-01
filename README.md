@@ -89,7 +89,7 @@ Name: Pratham Agrawal
 
 ## 🙌 Contributors
 
-- Pratham Agrawal (Developer)
+- Pradyumn Waghmare (Developer)
 
 ---
 
