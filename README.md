@@ -3,7 +3,7 @@
 CampusHire is a lightweight placement management system built on **ServiceNow**.  
 It allows **Students, Placement Officers, and Recruiters** to manage the campus hiring process end-to-end.**
 
-Name: Pratham Agrawal
+Name: Pradyumn Waghmare
 
 ![CampusHire-Pratham](https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow/blob/b798e1e4167ac19b3c4a7d53101dac632f62d67e/Screenshots/Pratham-CampusHire.png)
 
@@ -68,7 +68,7 @@ Name: Pratham Agrawal
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/PrathamAgrawal51/CampusHire_Placement_Managment_Using_ServiceNow.git
+   git clone https://github.com/Xtrmcoder/CampusHire_Placement_Managment_Using_ServiceNow
    ```
 
 2. Import the Update Set (if provided) into your ServiceNow instance:  
